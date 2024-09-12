@@ -6,7 +6,7 @@ The dataset was supplied with the [Maven Analytics Power BI Desktop course](http
 
 The customer base is spread across 6 countries: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
 
-<img alt="AdventureWorks Executive Dashboard" src="screenshots/Maven_Market.png">
+<img alt="MavenMarket Dashboard" src="Screenshots/Maven_Market.png">
 
 ## Features
 
